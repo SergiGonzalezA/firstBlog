@@ -3,7 +3,8 @@ Este es un documento de texto
 para probar el uso de Git 
 
 veamos que tan rapido soy escribiendo en el teclado sin equivocarme 
-
+Mira tu eso aqui estoy agregando algo mas que queria agregar al archivo como un cambio
+una actualizacion, version 2
 
 me tarde al rededor de 2 segundos 
 
